@@ -69,3 +69,19 @@ Do not ask for a cushion.
 Ask for more resistance.  
 Your code is buggy because you haven't suffered enough to fix it.  
 **Row. Hurt. Deploy.**
+
+### **Postscript: To the Desk-Bound Masses (You Are Not Safe)**
+
+Do not think, O Lawyer, that you are exempt because you bill by the hour and not by the commit. This Manifesto is universal. The chair is the enemy of all intellect.
+
+* **To the Lawyers:** Can you really argue the finer points of *Force Majeure* while your quads are trembling on a StairMaster? If you cannot defend your closing argument while maintaining 300 watts, your argument is weak.  
+* **To the Playwrights:** Do not sit in a cafe with a scarf. Strap into the erg. If your dialogue does not match the rhythm of your stroke rate, cut it. Chekhov’s Gun is useless if you are too winded to fire it.  
+* **To the Accountants:** You seek balance? Find it in the recovery phase of the stroke. If the ledger doesn't clear by the time you hit your VO2 Max, the audit has failed.  
+* **To the Quantity Surveyors:** Measure the volume of your sweat. That is the only metric that counts.  
+* **To the Actuaries:** Calculate the risk of cardiac arrest versus the risk of a boring spreadsheet. Choose wisely.  
+* **To the Medievalists:** Stop reading parchment. Experience the physical suffering of the 14th century firsthand.  
+* **To the Chief Visionary Officers:** Vision is clearer when the blood leaves your eyes to fuel your legs.  
+* **To the Influencers:** You cannot filter a grimace. Post the pain.
+
+**Join us.** The machine does not care about your job title. It only cares about your split.
+
