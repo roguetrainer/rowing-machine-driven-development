@@ -1,0 +1,43 @@
+(ns contracts.valuation
+  (:require [contracts.primitives :as p]))
+
+;; Helper to evaluate data-driven predicates
+(defn evaluate-predicate [pred market-data]
+  (case (:op pred)
+    :gt (> (get market-data (:key pred) 0) 
+           (:val pred))
+    ;; Fallback for unrecognized predicates
+    false))
+
+(defn valuate 
+  "Recursively walks the contract tree to determine current value."
+  [contract market-data]
+  (case (:type contract)
+    :zero 
+    0
+
+    :one  
+    (get market-data (:currency contract) 1.0)
+
+    :give 
+    (- (valuate (:contract contract) market-data))
+
+    :and  
+    (+ (valuate (:left contract) market-data)
+       (valuate (:right contract) market-data))
+
+    :or   
+    (max (valuate (:left contract) market-data)
+         (valuate (:right contract) market-data))
+
+    :scale
+    (* (:magnitude contract) 
+       (valuate (:contract contract) market-data))
+    
+    :cond
+    (if (evaluate-predicate (:predicate contract) market-data)
+      (valuate (:then contract) market-data)
+      (valuate (:else contract) market-data))
+
+    ;; Default safety catch
+    (throw (ex-info "Unknown contract type" {:contract contract}))))
