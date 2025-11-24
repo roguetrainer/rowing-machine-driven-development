@@ -6,7 +6,7 @@
 ![RMDD](./img/RMDD.png)
 ---
 
-In a hurry? Jump straight to the *Rowing Machine Driven Development* docs:
+🪂 In a hurry? Jump straight to the *Rowing Machine Driven Development* docs:
 * 📜 [RMDD-MANIFESTO.md](./docs/RMDD-MANIFESTO.md) 
 * 👥 [RMDD-SOCRATIC-DIALOGUE.md](./docs/RMDD-SOCRATIC-DIALOGUE.md) 
 
