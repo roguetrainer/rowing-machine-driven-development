@@ -33,6 +33,10 @@ Instead of opaque objects or classes, we use immutable maps to represent the Abs
 
 We take Hickey's concept one step further. If typing is not thinking, neither is sitting. This library was dictated between strokes on a rowing machine.
 
+---   
+![RMDD](./img/No-chairs.png)  
+---   
+
 * **The Manifesto:** Read [RMDD-MANIFESTO.md](https://www.google.com/search?q=RMDD-MANIFESTO.md) to understand why we believe "Sitting is not thinking."  
 * **The Origin Story:** Read [RMDD-SOCRATIC-DIALOGUE.md](https://www.google.com/search?q=RMDD-SOCRATIC-DIALOGUE.md) for the transcript of the session where Rich Hickey (from a hammock) and a rower architected this system.
 
