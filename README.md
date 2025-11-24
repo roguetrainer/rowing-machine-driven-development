@@ -2,6 +2,10 @@
 
 *A Clojure implementation of Composable Financial Contracts, built at 145 BPM.*
 
+---
+![RMDD](./img/RMDD.png)
+---
+
 ## **Overview**
 
 This library provides a domain-specific language (DSL) for defining financial contracts as **pure data**. Inspired by the papers of Peyton Jones and Eber, but implemented using the philosophy of **Rowing Machine Driven Development**.

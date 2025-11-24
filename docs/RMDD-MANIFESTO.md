@@ -2,6 +2,10 @@
 
 *Or: How I Learned to Stop Typing and Love the Lactate Threshold*
 
+---
+![RMDD](../img/No-chairs.png)
+---
+
 ### **Preamble: The Softness of the Chair**
 
 For fifty years, the software engineer has been defined by the curvature of their spine and the softness of their hands. We were told that logic required comfort. We were given ergonomic chairs, bean bags, and standing desks that we never raise. We were told that "Sprints" were two-week periods of clicking JIRA tickets while sipping kombucha.
