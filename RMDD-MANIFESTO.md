@@ -2,10 +2,6 @@
 
 *Or: How I Learned to Stop Typing and Love the Lactate Threshold*
 
----
-![RMDD](../img/No-chairs.png)
----
-
 ### **Preamble: The Softness of the Chair**
 
 For fifty years, the software engineer has been defined by the curvature of their spine and the softness of their hands. We were told that logic required comfort. We were given ergonomic chairs, bean bags, and standing desks that we never raise. We were told that "Sprints" were two-week periods of clicking JIRA tickets while sipping kombucha.
@@ -84,5 +80,3 @@ Do not think, O Lawyer, that you are exempt because you bill by the hour and not
 * **To the Influencers:** You cannot filter a grimace. Post the pain.
 
 **Join us.** The machine does not care about your job title. It only cares about your split.
-
-🤷🏽‍♀️ **Confused?** 🆘  See [why this is possibly mildly amusing](UH-WHATS-FUNNY.md) 🤭

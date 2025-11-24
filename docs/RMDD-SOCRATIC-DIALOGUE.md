@@ -245,3 +245,6 @@ swap-contract
 **Rower:** Good session. AI, commit that.
 
 **Hammock:** And take a nap. 💤
+
+
+🤷🏽‍♀️ **Confused?** 🆘  See [why this is possibly mildly amusing](UH-WHATS-FUNNY.md) 🤭
