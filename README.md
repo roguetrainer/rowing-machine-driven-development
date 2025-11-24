@@ -59,4 +59,4 @@ Financial contracts are fundamentally trees of definitions.
 
 ## **Usage**
 
-See [notebooks/financial_intro.clj`](./notebooks/financial-intro.clj) for a walkthrough of the primitives and valuation engine.
+See [`notebooks/financial_intro.clj`](./notebooks/financial-intro.clj) for a walkthrough of the primitives and valuation engine.
