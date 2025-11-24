@@ -6,9 +6,13 @@
 ![RMDD](./img/RMDD.png)
 ---
 
+In a hurry? Jump straight to the *Rowing Machine Driven Development* docs:
+* 📜 [RMDD-MANIFESTO.md](./docs/RMDD-MANIFESTO.md) 
+* 👥 [RMDD-SOCRATIC-DIALOGUE.md](./docs/RMDD-SOCRATIC-DIALOGUE.md) 
+
 ## **Overview**
 
-This library provides a domain-specific language (DSL) for defining financial contracts as **pure data**. Inspired by the papers of Peyton Jones and Eber, but implemented using the philosophy of **Rowing Machine Driven Development**.
+This library provides a domain-specific language (DSL) for defining financial contracts as **pure data**. Inspired by the papers of Peyton Jones and Eber, but implemented using the philosophy of **Rowing Machine Driven Development**. 🚣🏼‍♀️
 
 This library provides a domain-specific language (DSL) for defining financial contracts as **pure data**. Inspired by the papers of Peyton Jones and Eber and [the original Haskell implementation](https://github.com/roguetrainer/financial-contract-combinators), but translated to Clojure using the philosophy of **Rowing Machine Driven Development**.
 
@@ -44,11 +48,11 @@ Financial contracts are fundamentally trees of definitions.
 
 1. **Install Java:** Ensure you have a JDK (version 8+).  
 2. **Install the Clojure CLI:**  
-   * **Mac:** brew install clojure/tools/clojure  
-   * **Linux:** curl \-O https://download.clojure.org/install/linux-install... (Check official docs)  
-   * **Windows:** iwr \-useb download.clojure.org/install/win-install.ps1 | iex  
-3. **Run the REPL:** Type clj in your terminal.
+   * **Mac:** `brew install clojure/tools/clojure`  
+   * **Linux:** `curl -O https://download.clojure.org/install/linux-install...` (Check official docs)  
+   * **Windows:** `iwr -useb download.clojure.org/install/win-install.ps1 | iex`  
+3. **Run the REPL:** Type `clj` in your terminal.
 
 ## **Usage**
 
-See notebooks/financial\_intro.clj for a walkthrough of the primitives and valuation engine.
+See [notebooks/financial_intro.clj`](./notebooks/financial-intro.clj) for a walkthrough of the primitives and valuation engine.
