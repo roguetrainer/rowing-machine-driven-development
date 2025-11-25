@@ -4,27 +4,25 @@ Here is a draft for a LinkedIn post.
 
 ***
 
-**Headline:** 🚀 Why I sold my ergonomic chair and bought a boat (simulator).
+🚣🏼‍♀️ I SOLD MY ERGONOMIC CHAIR AND BOUGHT A BOAT (SIMULATOR), BECAUSE SWEAT IS THE ULTIMATE LINTER.
 
-When we write code, we measure our productivity in lines of code. Or in JIRA tickets. Now? Let's measure it in **Watts**.
+🛏️ We are gently poking fun at a famous tech philosophy called "HAMMOCK DRIVEN DEVELOPMENT" (created by Rich Hickey). He taught us that resting makes better code.
 
-For years, we have been told to sit still. But thanks to the groundbreaking research of **Rowing Machine Driven Development (RMDD)**, we now know that the best architecture happens when your heart rate is in Zone 2.
+🤪 In ths nerd humour repo we argue that EXERCISE MAKES EVEN BETTER CODE. Since AI CAN NOW TALK AND LISTEN, WE DON'T NEED KEYBOARDS ANYMORE. We can leave our desks, jump on a rowing machine, and yell instructions at the AI.
 
-We all respect the great work of Rich Hickey.
+🔌 When we write code, no longer should we measure our productivity in lines of code. Or in JIRA tickets. Now? Instead, let's measure it in WATTS. 😜
+
+🪑 For years, we have been told to sit still to focus. But thanks to the groundbreaking research of ROWING MACHINE DRIVEN DEVELOPMENT (RMDD), we now know that the best architecture happens when your heart rate is in Zone 2. 🫀
+
+⦅⦆ We all respect the great work of Rich Hickey (creator of the Lisp dialect, Clojure).
 (((He (taught (us (that (typing (is (not (thinking)))))))))
 ((He (gave (us (the (Hammock))))))
 ((He (showed (us (the (value (of (Simplicity))))))))
 (((But (we (must (ask (ourselves)))))))
 ((((Is (sitting (really (living?))))))))
 
-While the Hammock allows for passive synthesis, the Rower forces active simplification. You simply cannot dictate a AbstractFactorySingletonProxy while gasping for air at a 2:05 split. The pain filters the code.
+🚣🏼‍♀️ While the Hammock allows for passive synthesis, the Rower forces active simplification. You simply cannot dictate a AbstractFactorySingletonProxy while gasping for air at a 2:05 split. 😩 The pain filters the code.
 
-As the old nursery rhyme / senior dev wisdom goes:
-
-🎶 *Row, row, row your REPL,*
-*Gently down the stream (of immutable data),*
-*Merrily, merrily, merrily, merrily,*
-*State is but a dream.* 🎶
 
 Whether you write Python, Rust, Java, or raw Assembly—let's stop fighting over syntax. Let's make peace, not language wars. The only enemy is a sedentary lifestyle.
 
@@ -32,8 +30,14 @@ Has anyone else tried debugging a race condition while doing a 2k sprint? Let’
 
 #RMDD #Clojure #Fitness #SoftwareArchitecture #ThoughtLeadership #Lisp #Programming #MakePeaceNotMergeConflicts 🚣‍♂️💻
 
+As the old nursery rhyme / senior dev wisdom goes:
+🎶 *Row, row, row your REPL,*
+*Gently down the stream (of immutable data),*
+*Merrily, merrily, merrily, merrily,*
+*State is but a dream.* 🎶
 
-Here are a few more humorous/satirical title options for your RMDD LinkedIn post, categorized by the specific "vibe" you might want to project:
+
+## Title options
 
 **The "Disruptive Thought Leader" Vibe**
 * "Why I Sold My Herman Miller Aeron and Bought a Concept2."
