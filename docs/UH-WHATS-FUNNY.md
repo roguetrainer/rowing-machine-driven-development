@@ -1,5 +1,8 @@
 # 🤷🏽‍♀️ Uh?! What's funny?
-### Option 1: The "Explain Like I'm 5" (Clear & Helpful)
+
+Humour is hard to explain. Choose your ending. 
+
+### Option 1: The "Explain Like I'm 5" 
 **Subject: Wait, I don’t get the joke! 😅**
 
 If you are confused, don't worry—this is a very specific nerd-joke! Here is the breakdown:
@@ -11,7 +14,7 @@ If you are confused, don't worry—this is a very specific nerd-joke! Here is th
 
 ***
 
-### Option 2: The "Witty & Self-Aware" (Best for a blog post footer)
+### Option 2: The "Witty & Self-Aware" 
 **Missing the Context? Here is the Decoder Ring.**
 
 This project is a loving satire built on a very specific slice of computing history.
@@ -24,11 +27,11 @@ The logic? Now that AI assistants can handle the "donkey work" of coding via voi
 
 ***
 
-### Option 3: The "Short & Punchy" (Best for a social media comment)
+### Option 3: The "Short & Punchy" 
 **For the non-coders wondering what is going on:**
 
 We are gently poking fun at a famous tech philosophy called **"Hammock Driven Development"** (created by Rich Hickey). He taught us that resting makes better code.
 
 We are arguing that **Exercise** makes even better code. Since AI can now talk and listen, we don't need keyboards anymore. We can leave our desks, jump on a rowing machine, and yell instructions at the AI.
 
-It is a "peaceful war" on the sedentary lifestyle of the programmer, written in the style of a Victorian etching. 🚣‍♂️🤖
+It is a "peaceful war" on the sedentary lifestyle of the programmer. 🚣‍♂️🤖
